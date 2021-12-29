@@ -52,3 +52,24 @@ this difficult.
 
 This is the satisfaction we have after performing the action. For good habits,
 make this satisfying. For bad habits, make this unsatisfying.
+
+# The four rules of habit changing
+
+## Make it obvious (good habits) / invisible (bad habits)
+
+The cue is usually visual, so if we can't see it, ourr craving won't be
+trigger. There are ways to help with forming new habits. They are:
+
+### Intention Implementation
+
+To make sure we will start doing something, we can make it as explicit and
+detailed as possible. For example, we can declare the time and place that we
+will do something, like "at 3 PM I will workout at the gym". Similarly, we can
+select an event as a trigger, as in "after I make my tea, I will meditate".
+
+### Habit Stacking
+
+This method is effective as we can "chain" your existing habits with new ones
+to make them stick. For example, I brush my teeth everyday, so I can chain
+another habit, such as wipe out the counter, right after. That way, one existing
+habit can be the trigger of a new one.
