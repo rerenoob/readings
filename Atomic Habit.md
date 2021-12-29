@@ -1,3 +1,5 @@
+![Atomic Habits](images/atomic-habits.jpeg)
+
 # What is atomic habit?
 
 We can create/remove a habit by first break it down to the smallest analyzable
