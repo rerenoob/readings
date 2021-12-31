@@ -75,3 +75,18 @@ This method is effective as we can "chain" your existing habits with new ones
 to make them stick. For example, I brush my teeth everyday, so I can chain
 another habit, such as wipe out the counter, right after. That way, one existing
 habit can be the trigger of a new one.
+
+### For habits, make it invisible
+
+Most of our sensing information comes in as visual, so visual cues are powerful
+that can trigger our craving without us evening knowing. To stop bad habits, we
+need to determine their cues and make them invisible. Out of sight, out of mind.
+
+### Environmental Architecture
+
+One of the stickiest cues have to do with places and objects that associated
+with the habits. For example, if we play video games and watch tv on the couch,
+the couch will be the cue that is associated with playing video games and
+watching tv. It will take a lot more mental energy to read on the couch.
+Therefore, it's best to dedicate one activity per zone, so our mind can have an
+easier time forming/maintaining the habit in that environment. 
