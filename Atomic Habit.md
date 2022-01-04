@@ -132,3 +132,22 @@ reasons, we can leave it in another room. If we want to not watch TV mindlessly,
 we can unplug the TV, remove the batteries out of the remote, or put the TV away
 in the closet after each use. If the obstacle is big enough, we will need extra
 effort to perform the bad habits, which make them less likely to happen.
+
+## Make it satisfying (good habits) / unsatisfying (bad habits)
+
+### Habit Tracker
+
+One way to make an action satisfying is to make progress visible. If we can see
+the progress we're making, we feel better as the work is being paid off. A good
+way to do this is to use some kind of habit trackers that show the streak of
+habit/votes we've been casting. For example, I will mark the physical calendar
+of the days that I work out. It will be visible for everyone in my family to see
+so that it will be satisfying to keep the streak a life.
+
+# Get Back on Track
+
+The streak will end at some point, so we need a plan to get back on track when
+life happens. A good rule of thumb is to never skip twice. It's fine to skip
+once in a while, but we don't want to make it a habit of skipping, so never skip
+twice. We need to let the compound do its magic, and bad days help us a lot more
+than a skipped day.
