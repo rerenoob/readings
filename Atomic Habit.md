@@ -151,3 +151,68 @@ life happens. A good rule of thumb is to never skip twice. It's fine to skip
 once in a while, but we don't want to make it a habit of skipping, so never skip
 twice. We need to let the compound do its magic, and bad days help us a lot more
 than a skipped day.
+
+# The flip-side of habits
+
+Once we've gotten a habit down, it could be hard to change it. Once we've
+changed our identity, we will do our best to defend it. It's important to watch
+out for things that would derail our progress. There are a few things:
+
+## The boredom we need to love
+
+Once the habit is formed and progress is expected, the novelty will be worn off.
+We will no longer feel the high or excitement from noticeable/visible progress.
+Things will be normalized to the point where the habits will be seen as "boring
+routines". We need to understand that the progress is still there and we will
+want to keep at it. The boredom is a sign that we need to revisit and up our
+games to attend additional results and get to the next levels. We can do this by
+employing "deliberate practice".
+
+## Deliberate practice and hyper-focus on the basics
+
+Once the habit is formed, it's easy to keep it up. This is the point where we
+want to revisit and focus on the details/basics that we can improve the habit
+with. Some habits are fine once we're good enough at it, like brushing your
+teeth. Look at the habits that we can improve marginally every day, or at least
+work at it deliberately. For instance, if we make running a habit, just go on a
+run may seem boring at times and not very motivating. We can hone in on a few
+aspects of running that we can improve, such as speed, time, heart rate,
+breathing, form, distance, .etc. Once we identify what we want to deliberately
+practice on, we can continuously improve the habits.
+
+## Pick a fluid/flexible identity
+
+It's a good thing to pick and stick with an identity so that we can change our
+habits with it. However, if we pick a rigid identity and then lose it because of
+some unforeseen circumstances, we will feel lost and most likely derail our
+progress. For example, if we pick our identity based on a role, say an athlete,
+solder, or a chef, we will lose our motivation to keep up the habits if we no
+longer hold the roles. As life changes, our roles will change. 
+
+A good idea is identify ourselves with the attributes that come with the roles.
+For example, for an athlete, the attributes are staying fit, drawn to physical
+challenge, and being active physically. A solder's attributes would be
+discipline, strong-minded, respectful. So when we pick our identities, we want
+to identify as a person who has the attributes that we want. For example, my
+identity is a person who is physically active, neat, disciplined, and
+family-focused. I build my habits around these attributes as I will never lose
+this identity.
+
+"Life is flexible and supple, death is stiff and brittle. Be life, not death." -
+Paraphrased from Lao Tzu.
+
+# Side notes
+
+To start and stay with a habit, we need to pick on that fits our predisposed
+attributes. When the habits fit our natural attributes, they feel easy. When
+they don't, life is hard. We want to pay attention to that and should not just
+pick the habits that sound good.
+
+For me, a few basic habits to maintain my quality of life to start, such as
+staying physically and mentally healthy. This involves exercising and eating
+healthy and reading and mediating. I don't particularly enjoy all of these
+habits, but they are the basics and I will just get good enough to stick with
+them. Other habits I can't spend more time deliberately practicing on, such as
+BJJ, writing, cooking, and spending more quality times with family.
+
+Habits define our lives, so let's pick some good ones.
