@@ -197,3 +197,22 @@ to identify as a person who has the attributes that we want. For example, my
 identity is a person who is physically active, neat, disciplined, and
 family-focused. I build my habits around these attributes as I will never lose
 this identity.
+
+"Life is flexible and supple, death is stiff and brittle. Be life, not death." -
+Paraphrased from Lao Tzu.
+
+# Side notes
+
+To start and stay with a habit, we need to pick on that fits our predisposed
+attributes. When the habits fit our natural attributes, they feel easy. When
+they don't, life is hard. We want to pay attention to that and should not just
+pick the habits that sound good.
+
+For me, a few basic habits to maintain my quality of life to start, such as
+staying physically and mentally healthy. This involves exercising and eating
+healthy and reading and mediating. I don't particularly enjoy all of these
+habits, but they are the basics and I will just get good enough to stick with
+them. Other habits I can't spend more time deliberately practicing on, such as
+BJJ, writing, cooking, and spending more quality times with family.
+
+Habits define our lives, so let's pick some good ones.
