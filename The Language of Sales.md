@@ -19,4 +19,10 @@ ground/rapport that will help with furthering the conversation. It all comes
 back to the following quote: "They don't care how much you know, until they know
 how much you care."
 
+## Side notes
 
+After spending some time with this book, I realized I disliked the way the
+author's style of writing. There is a lot of mixing of "general feel good"
+writings, and it's very distracting. It may work for others, but it doesn't seem
+to be a good fit for me. I may come back to this later, but it'll be a wrap for
+me for now.
