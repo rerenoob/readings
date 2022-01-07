@@ -17,3 +17,9 @@ We are paid for the work that we do.
 ## Culture
 
 Influence of "This is the way we do things".
+
+# Side notes
+
+Org design is a skill that requires a lot of iteration to narrow down the change
+that _works_ for our own context. It is not a good idea to just copy other
+companies' org structures assuming it will work for us.
