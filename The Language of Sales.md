@@ -1,5 +1,5 @@
 ![The Language of
-Sales](https://images-na.ssl-images-amazon.com/images/I/81QpEK5XzPL.jpg)
+Sales](images/The\ language\ of\ sales.jpg)
 
 We sell everyday, to everyone, including ourselves, on things we want to do or
 things we want others to do.
