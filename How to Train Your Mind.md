@@ -39,3 +39,41 @@ engineers to write lengthy sloppy code. There was a famous anecdote that a
 well-respected engineer submitted a report of "-1000 lines of code" as a result
 of a big refactor where he rewrote the program (which the program even ran
 faster afterward).
+
+## 3 kinds of distraction we may experience during meditation
+
+### Perceptions
+
+This is physical sensations, like sight, sound, body sensations. We may not
+notice any of these when our minds are busy, but they will surface once our
+minds are quiet.
+
+### Feelings/Emotions
+
+We may feel a variety of feelings and emotions that we don't even notice they're
+there. They could be feelings we've ignored or pushed down or away for so long
+that finally surface. They could be emotions that linger from things happen
+earlier or long ago.
+
+### Thoughts
+
+Our minds will wander with a lot of thoughts, such as worries, doubts, regrets,
+or imagine scenarios that may or may not happen. This is the majority of
+distractions that we will want to observe and let go.
+
+# Side notes
+
+Meditation, for me, is a way to quite my mind. It's also a way to train my brain
+to stay on boring tasks for longer period of time. Many things our brains need
+to process tend to be boring, such as reading, planning, writing, of focusing on
+anything for an extend period of time. If we can just focus on our breath, which
+is extremely boring, we can definitely master focusing on other things that are
+less boring.
+
+Meditation also forces me to be in the present. After all, we can only deal with
+what's in front of us, one thing at a time. If we can focus on doing just that,
+we will be a lot happier and feeling a lot more accomplished than doing and
+worrying about many things all at the same time.
+
+Being in the present can make us happier, as it allows us to enjoy our life more
+purposefully. I will do just that.
