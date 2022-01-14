@@ -29,3 +29,11 @@ distracted.
 
 From 3 to 5, and no more than 5. The point of have __key__ results is that so we
 can have focus. If we focus on everything, we would then focus on nothing.
+
+# Power of Alignment
+
+How do we know that everyone in the company is working toward the same goals?
+Not duplicating work? By having OKRs and having them visible publicly. The
+accountability of having publicly visible OKRs will enable everyone to know what
+everyone else is working on and where their focuses are. This will help realign
+the purpose of the company, orgs, teams, and individuals. 
