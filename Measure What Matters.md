@@ -74,3 +74,27 @@ Another way to apply OKRs to annual performance review is to replace it. To
 enhance the effect of OKRs, we use Conversation, Feedback, and Recognition (CFR)
 to continuously help employees get better. This takes place as 1-1s with direct
 reports on a weekly basis.
+
+## 1-1 Things to Focus on in Conversations
+
+1. Goal settings and reflections
+
+How best to align OKRs to organizational goals.
+
+2. On-going progress updates
+
+What's working well and what's not working well?
+
+3. 2-way coaching
+
+What does the manager need to improve for better decision making? How does the
+IC reach his/her potentials?
+
+4. Career Growth
+
+Develop skills, recognize opportunities, expand the employee's view of the
+organization
+
+5. Lightweight performance review
+
+What has the employee accomplished since the last meeting?
