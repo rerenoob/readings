@@ -30,10 +30,47 @@ distracted.
 From 3 to 5, and no more than 5. The point of have __key__ results is that so we
 can have focus. If we focus on everything, we would then focus on nothing.
 
-# Power of Alignment
+# Superpowers of OKRs
+
+## Focus and Commit to Priorities
+
+With well-defined and publicly visible OKRs, everyone can have a sense of focus
+and commitment, from leaders to front-line employees. When we know what our
+bosses deem important, we have a better idea where to focus and commit our time.
+
+## Align and Connect for Teamwork
+
+Once we know what other teammates/teams are focusing on, we can judge and align
+ourselves with the organization's objectives. Who wants to duplicate work or
+fails to meet others' expectation because we didn't know about it? OKRs help us
+avoid the implicit dependencies.
+
+### Power of Alignment
 
 How do we know that everyone in the company is working toward the same goals?
 Not duplicating work? By having OKRs and having them visible publicly. The
 accountability of having publicly visible OKRs will enable everyone to know what
 everyone else is working on and where their focuses are. This will help realign
 the purpose of the company, orgs, teams, and individuals. 
+
+## Track for Accountability
+
+Once we commit our OKRs in public, we are more likely to commit to delivering
+them. It also clarifies what we try to accomplish and therefore it will be
+easier to judge whether we deliver on our goals/promises. It is as important
+that we hold ourselves accountable to our words as to other people.
+
+## Stretch for Amazing
+
+We always want to push ourselves and expand our limits. OKRs allow us to see
+where our comfort zones are and confront them. We don't want to set completely
+unrealistic goals, but we don't want to take it easy either. To grow is to be
+uncomfortable, so having stretch goals is essential to our own professional and
+organizational growth.
+
+# OKRs and Performance Review
+
+Another way to apply OKRs to annual performance review is to replace it. To
+enhance the effect of OKRs, we use Conversation, Feedback, and Recognition (CFR)
+to continuously help employees get better. This takes place as 1-1s with direct
+reports on a weekly basis.
