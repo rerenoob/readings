@@ -98,3 +98,17 @@ organization
 5. Lightweight performance review
 
 What has the employee accomplished since the last meeting?
+
+# OKRs common mistakes
+
+## Failing to differentiate between committed and aspirational OKRs
+
+## Business-as-usual OKRs
+
+## Timid aspirational OKRs
+
+## Sandbagging
+
+## Low-Value Objects (aka the "who cares?" OKRs)
+
+## Insufficient KRs for committed Os.
