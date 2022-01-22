@@ -112,3 +112,13 @@ What has the employee accomplished since the last meeting?
 ## Low-Value Objects (aka the "who cares?" OKRs)
 
 ## Insufficient KRs for committed Os.
+
+# Recommended Readings
+
+- How by Dov Seidman
+- Lean In by Sheryl Sandberg
+- Radical Candor by Kim Scott
+- Good to Great by Jim Collins
+- How Google Works by Eric Schmitt
+- Work Rules by Laszlo Boch
+- In the Plex by Steven Levy
