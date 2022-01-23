@@ -1,4 +1,4 @@
-![High Output Management - Andy Groves](images/High\ Output\ Management.jpeg)
+![High Output Management - Andy Groves](images/High-Output-Management.jpeg)
 
 # What is the manager's output?
 

@@ -1,5 +1,5 @@
 ![How to Train Your
-Mind](images/How\ to\ train\ your\ mind.jpg)
+Mind](images/How-to-train-your-mind.jpg)
 
 # The Cross Section Between Productivity and Meditation
 

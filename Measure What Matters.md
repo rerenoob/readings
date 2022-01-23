@@ -1,4 +1,4 @@
-![Measure What Matters](images/Measure\ What\ Matters.jpg)
+![Measure What Matters](images/Measure-What-Matters.jpg)
 
 # OKRs
 
